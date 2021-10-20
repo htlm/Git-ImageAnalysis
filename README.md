@@ -10,9 +10,9 @@ If this is not the correct path, the path will need to be adjusted in the follow
 - CanaryColonyProcessing.sh
 
 Additional files necessary: 
-numImages.csv - a file with column-wise information about how many images are in the dataset
-bkgndCorrYr.csv - a file with column-wise information about which background correction to use to correct the dataset of interest
-Frame-Threshold-SZ.csv - a file indicating the settings to use when identifying peaks in CanaryColonyProcessing.sh
+- numImages.csv - a file with column-wise information about how many images are in the dataset
+- bkgndCorrYr.csv - a file with column-wise information about which background correction to use to correct the dataset of interest
+- Frame-Threshold-SZ.csv - a file indicating the settings to use when identifying peaks in CanaryColonyProcessing.sh
 
 To run this code on the provided dataset, 
 - place your image timeseries data in a folder in the `CanaryData` folder.
