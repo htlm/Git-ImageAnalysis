@@ -1,4 +1,4 @@
-# Git-ImageAnalysis
+# Image Timeseries Analysis Pipeline
 
 This code requires MATLAB2018a
 The default path to the MATLAB installation is '/Applications/MATLAB_R2018a.app/bin/matlab'. 
